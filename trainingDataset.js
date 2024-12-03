@@ -1,7 +1,7 @@
 /**
  * ------------------------------------------------------------
  * Project Babel: Reinforcement Learning, Vision, Personality, Emotional States, and Plugin System.
- * ProjectBabel.org
+ * ProjectBabelAI.org
  *
 ██████  ██████   ██████       ██ ███████  ██████ ████████ 
 ██   ██ ██   ██ ██    ██      ██ ██      ██         ██    
@@ -6167,7 +6167,7 @@ console.log("Together, we can shape the future of AI and create intelligent syst
 /**
  * ------------------------------------------------------------
  * Project Babel: Reinforcement Learning, Vision, Personality, Emotional States, and Plugin System.
- * ProjectBabel.org
+ * ProjectBabelAI.org
  *
 ██████  ██████   ██████       ██ ███████  ██████ ████████ 
 ██   ██ ██   ██ ██    ██      ██ ██      ██         ██    
