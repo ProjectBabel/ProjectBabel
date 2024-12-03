@@ -1,7 +1,7 @@
 /**
  * ------------------------------------------------------------
  * Project Babel: Reinforcement Learning, Vision, Personality, Emotional States, and Plugin System.
- * ProjectBabel.org
+ * ProjectBabelAI.org
  *
 ██████  ██████   ██████       ██ ███████  ██████ ████████ 
 ██   ██ ██   ██ ██    ██      ██ ██      ██         ██    
