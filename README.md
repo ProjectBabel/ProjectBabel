@@ -1,11 +1,11 @@
-# ProjectBabel.org
+# ProjectBabelAI.org
 
-ProjectBabel.org multi-feature AI dataset source code repository 
+ProjectBabelAI.org multi-feature AI dataset source code repository 
 
 <div align="center">
     <img src="https://github.com/user-attachments/assets/0a920436-7ba3-4086-8ebb-6d9b34a664e9" alt="ProjectBabel">
     <br>
-    <a href="https://ProjectBabel.org/"><b>🌐 Web</b></a> | 
+    <a href="https://ProjectBabelAI.org/"><b>🌐 Web</b></a> | 
     <a href="https://x.com/ProjectBabelorg"><b>🐦 Twitter</b></a>
 </div>
 
