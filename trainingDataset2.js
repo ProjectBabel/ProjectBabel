@@ -1,7 +1,7 @@
 /**
  * ------------------------------------------------------------
  * Project Babel: Reinforcement Learning, Vision, Personality, Emotional States, and Plugin System.
- * ProjectBabel.org
+ * ProjectBabelAI.org
  *
 ██████  ██████   ██████       ██ ███████  ██████ ████████ 
 ██   ██ ██   ██ ██    ██      ██ ██      ██         ██    
@@ -7104,7 +7104,7 @@ class NeuralNetwork {
 /**
  * ------------------------------------------------------------
  * Project Babel: Reinforcement Learning, Vision, Personality, Emotional States, and Plugin System.
- * ProjectBabel.org
+ * ProjectBabelAI.org
  *
 ██████  ██████   ██████       ██ ███████  ██████ ████████ 
 ██   ██ ██   ██ ██    ██      ██ ██      ██         ██    
