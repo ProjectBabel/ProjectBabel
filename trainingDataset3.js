@@ -1,7 +1,7 @@
 /**
  * ------------------------------------------------------------
  * Project Babel: Reinforcement Learning, Vision, Personality, Emotional States, and Plugin System.
- * ProjectBabel.org
+ * ProjectBabelAI.org
  *
 ██████  ██████   ██████       ██ ███████  ██████ ████████ 
 ██   ██ ██   ██ ██    ██      ██ ██      ██         ██    
@@ -6374,7 +6374,7 @@ network.train(trainingData, targets, 100);
 /**
  * ------------------------------------------------------------
  * Project Babel: Reinforcement Learning, Vision, Personality, Emotional States, and Plugin System.
- * ProjectBabel.org
+ * ProjectBabelAI.org
  *
 ██████  ██████   ██████       ██ ███████  ██████ ████████ 
 ██   ██ ██   ██ ██    ██      ██ ██      ██         ██    
